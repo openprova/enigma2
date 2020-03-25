@@ -2830,7 +2830,7 @@ msgid "Display movie length in movielist (except single line style)."
 msgstr "Visualizza la lunghezza del filmato in lista (tranne lo stile a linea singola)."
 
 msgid "Display setup"
-msgstr "Impostazione del display"
+msgstr "Impostazioni display"
 
 msgid "Djibouti"
 msgstr "Gibuti"
@@ -5459,7 +5459,7 @@ msgid "No standby"
 msgstr "Nessuna sospensione"
 
 msgid "No stream clients"
-msgstr "Nessun client attivo collegato in trasmissione"
+msgstr "Nessun utente attivo collegato in streaming"
 
 msgid "No tags are set on these movies."
 msgstr "Nessuna etichetta è stata assegnata a questi video."
@@ -9241,7 +9241,7 @@ msgid "Time scale"
 msgstr "Scala del tempo"
 
 msgid "Time zone"
-msgstr "Orario della zona"
+msgstr "Zona oraria"
 
 msgid "Time zone area"
 msgstr "Zona del fuso orario"
@@ -11761,7 +11761,7 @@ msgid "yes (keep feeds)"
 msgstr "Sì (mantenere le fonti)"
 
 msgid "yes, but not in multi selections"
-msgstr ""
+msgstr "sì, ma non in più selezioni"
 
 msgid "zap"
 msgstr "Cambiare canale"
@@ -11771,6 +11771,9 @@ msgstr "Cambiare canale e registrare"
 
 msgid "zapped"
 msgstr "Cambiato!"
+
+msgid "CET"
+msgstr "Questo"
 
 msgid "®"
 msgstr "®"
